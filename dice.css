@@ -1,0 +1,27 @@
+body {
+  background-color: #c3aed6;
+  font-family: 'Lemonada', cursive;
+}
+
+h1, h3 {
+  color: #3c2c3e;
+  margin: 20px;
+}
+
+p {
+  color: #ffd5cd;
+}
+
+
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 3.5rem;
+}
+
+.dice {
+  display: inline-block;
+  padding: 5px 5%;
+}
