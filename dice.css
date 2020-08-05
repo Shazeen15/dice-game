@@ -25,3 +25,13 @@ p {
   display: inline-block;
   padding: 5px 5%;
 }
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  img {
+    width: 50%;
+  }
+}
